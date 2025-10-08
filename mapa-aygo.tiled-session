@@ -13,11 +13,14 @@
             "scaleInEditor": 1
         },
         "G:/Meu Drive/Aygo/Operacional/Operacional/Aygo/Work Adventure/map-starter-kit-master/office.tmj": {
-            "scale": 1.002671370967742,
-            "selectedLayer": 12,
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 390.9556125270196,
-                "y": 335.6034786105666
+                "x": 275.33333333333337,
+                "y": 435.33333333333326
             }
         },
         "G:/Meu Drive/Aygo/Operacional/Operacional/Aygo/Work Adventure/map-starter-kit-master/office.tmj#WA_Decoration": {
@@ -59,27 +62,37 @@
             "scaleInEditor": 1
         },
         "mapa-teste.json": {
-            "scale": 0.33,
-            "selectedLayer": 0,
+            "expandedGroupLayers": [
+                8
+            ],
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 75.75757575757598,
-                "y": 107.5757575757575
+                "x": 1452.6666666666665,
+                "y": 535.3333333333333
             }
         },
         "mapa-teste.json#WA_Exterior": {
-            "scaleInDock": 1
+            "scaleInDock": 0.125
         },
         "mapa-teste.json#WA_Miscellaneous": {
             "scaleInDock": 1
         },
         "mapa-teste.json#WA_Room_Builder": {
-            "scaleInDock": 1
+            "scaleInDock": 0.25
+        },
+        "mapa-teste.json#WA_Special_Zones": {
+            "scaleInDock": 2
         },
         "mapa-teste.json#WA_Tables": {
             "scaleInDock": 1
         }
     },
     "last.exportedFilePath": "G:/Meu Drive/Aygo/Operacional/Operacional/Aygo/Work Adventure/Mapa Novo Teste",
+    "last.externalTilesetPath": "G:/Meu Drive/Aygo/Operacional/Operacional/Aygo/Work Adventure/map-starter-kit-master/tilesets",
     "last.imagePath": "G:/Meu Drive/Aygo/Operacional/Operacional/Aygo/Work Adventure/map-starter-kit-master/tilesets",
     "map.fixedSize": true,
     "map.height": 40,
@@ -95,5 +108,6 @@
         "WA_Exterior.tsx",
         "WA_Room_Builder.tsx"
     ],
+    "tileset.lastUsedFilter": "Todos os Ficheiros (*)",
     "tileset.lastUsedFormat": "tsx"
 }
