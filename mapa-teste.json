@@ -647,8 +647,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":1863,
-         "source":"WA_Tables.tsx"
+         "image":"..\/map-starter-kit-master\/tilesets\/WA_Tables.png",
+         "imageheight":864,
+         "imagewidth":320,
+         "margin":0,
+         "name":"WA_Tables",
+         "spacing":0,
+         "tilecount":270,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":2133,
@@ -659,16 +668,56 @@
          "source":"WA_Room_Builder.tsx"
         }, 
         {
+         "columns":13,
          "firstgid":3983,
-         "source":"WA_Seats.tsx"
+         "image":"..\/map-starter-kit-master\/tilesets\/WA_Seats.png",
+         "imageheight":448,
+         "imagewidth":416,
+         "margin":0,
+         "name":"WA_Seats",
+         "spacing":0,
+         "tilecount":182,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":4165,
-         "source":"WA_Miscellaneous.tsx"
+         "image":"..\/map-starter-kit-master\/tilesets\/WA_Miscellaneous.png",
+         "imageheight":352,
+         "imagewidth":320,
+         "margin":0,
+         "name":"WA_Miscellaneous",
+         "spacing":0,
+         "tilecount":110,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":13,
          "firstgid":4275,
-         "source":"WA_User_Interface.tsx"
+         "image":"..\/map-starter-kit-master\/tilesets\/WA_User_Interface.png",
+         "imageheight":672,
+         "imagewidth":416,
+         "margin":0,
+         "name":"WA_User_Interface",
+         "spacing":0,
+         "tilecount":273,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":12,
+         "firstgid":4548,
+         "image":"..\/map-starter-kit-master\/tilesets\/WA_Other_Furniture.png",
+         "imageheight":416,
+         "imagewidth":384,
+         "margin":0,
+         "name":"WA_Other_Furniture",
+         "spacing":0,
+         "tilecount":156,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
